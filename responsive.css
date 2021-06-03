@@ -1,0 +1,11 @@
+@media all and (max-width: 1000px) {
+  .header-list {
+    font-size: 15px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .header-list {
+    font-size: 10px;
+  }
+}
